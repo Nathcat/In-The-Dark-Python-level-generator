@@ -4,4 +4,4 @@ This is a prototype for the random level generator in In The Dark (© Nathcat 20
 
 # Dependencies
 
- - Pillow: ```pip install pillow```
+ - Pillow, install via command line with: ```pip install pillow```
